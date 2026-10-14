@@ -10,7 +10,7 @@ alt="Banner animado"
 <!-- TEXTO DINÂMICO -->
 
 <img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Estudante+de+Inform%C3%A1tica;Aprendendo+Java%2C+C+e+Python;Explorando+Linux+e+Cybersecurity;Transformando+ideias+em+projetos"
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Estudante+de+Inform%C3%A1tica+e+Sistemas+Multim%C3%A9dia;Aprendendo+Java%2C+C+e+Python;Explorando+Linux+e+Cybersecurity;Transformando+ideias+em+projetos"
 alt="Texto animado"
 />
 

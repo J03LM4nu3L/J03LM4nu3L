@@ -1,77 +1,41 @@
-<!-- BANNER ANIMADO -->
+<!-- ====================================== -->
+<!-- JOEL MANUEL | PERFIL TECNOLÓGICO       -->
+<!-- ====================================== -->
+
 <div align="center">
 
+<!-- BANNER FUTURISTA AZUL -->
+
 <img
-src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=220&section=header&text=J03LM4nu3L&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35"
 width="100%"
-alt="Banner animado"
+src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,25:071952,60:0A4D8C,100:00B4D8&height=260&section=header&text=JOEL%20MANUEL&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=INFORM%C3%81TICA%20%7C%20PROGRAMA%C3%87%C3%83O%20%7C%20TECNOLOGIA&descSize=15&descAlignY=58&animation=fadeIn"
+alt="Banner tecnológico de Joel Manuel"
 />
 
-<!-- TEXTO DINÂMICO -->
+<!-- TEXTO ANIMADO -->
 
 <img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Estudante+de+Inform%C3%A1tica;Aprendendo+Java%2C+C+e+Python;Explorando+Linux+e+Cybersecurity;Transformando+ideias+em+projetos"
-alt="Texto animado"
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=700&lines=OL%C3%81%2C+MUNDO!;EU+SOU+JOEL+MANUEL;A+APRENDER+JAVA%2C+C+E+PYTHON;A+EXPLORAR+LINUX+E+SEGURAN%C3%87A;A+CONSTRUIR+O+FUTURO+COM+C%C3%93DIGO"
+alt="Apresentação animada"
 />
+
+<br/>
+
+<img src="https://img.shields.io/badge/ESTADO-EM%20APRENDIZAGEM-00BFFF?style=for-the-badge&labelColor=020617" alt="Em aprendizagem"/>
+<img src="https://img.shields.io/badge/MISS%C3%83O-INOVA%C3%87%C3%83O-0077B6?style=for-the-badge&labelColor=020617" alt="Inovação"/>
+<img src="https://img.shields.io/badge/FOCO-TECNOLOGIA-00D9FF?style=for-the-badge&labelColor=020617" alt="Tecnologia"/>
 
 </div>
 
 ---
 
-## 👨‍💻 Sobre mim
-
-Olá! Sou estudante de Informática e Sistemas Multimédia.
-
-- 💻 Estou a aprender programação.
-- ☕ Estou a estudar Java e C.
-- 🐍 Tenho interesse em Python.
-- 🐧 Estou a explorar Linux e administração de sistemas.
-- 🚀 Quero desenvolver projetos úteis e inovadores.
-- 📚 Acredito que aprender e praticar são essenciais para evoluir.
-
----
-
-## 🛠️ Tecnologias
+<h2 align="center">🌌 QUEM SOU EU?</h2>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,c,python,html,css,js,linux,git,github,vscode" alt="Tecnologias"/>
-
-</div>
-
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img
-src="https://github-readme-stats.vercel.app/api?username=J03LM4nu3L&show_icons=true&theme=tokyonight"
-height="170"
-alt="Estatísticas do GitHub"
-/>
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=J03LM4nu3L&layout=compact&theme=tokyonight"
-height="170"
-alt="Linguagens mais utilizadas"
-/>
-
-</div>
-
----
-
-## 🎯 Objetivos
-
-- 🌱 Melhorar as minhas competências de programação.
-- 💡 Criar projetos próprios.
-- 🔐 Aprender mais sobre segurança informática.
-- 🚀 Construir soluções tecnológicas.
-
----
-
-<div align="center">
-
-### ⚡ A aprender hoje, a construir o futuro amanhã.
-
-</div>
+```text
+NOME       : Joel Manuel
+ÁREA       : Informática e Sistemas Multimédia
+INTERESSES : Programação, Linux e Tecnologia
+MENTALIDADE: Aprender. Criar. Evoluir.
+OBJETIVO   : Transformar ideias em soluções digitais.

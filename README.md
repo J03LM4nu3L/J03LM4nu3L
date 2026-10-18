@@ -56,11 +56,11 @@ alt="Linguagens mais utilizadas"
 
 🎯 Objetivos
 
-🌱 Melhorar as minhas competências de programação.
+🌱 Melhorar as minhas competências de programação;
 
-💡 Criar projetos próprios.
+💡 Criar projetos próprios;
 
-🔐 Aprender mais sobre segurança informática.
+🔐 Aprender mais sobre segurança informática;
 
 🚀 Construir soluções tecnológicas.
 

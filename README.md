@@ -1,77 +1,45 @@
-<!-- BANNER ANIMADO -->
+<!--
+╔══════════════════════════════════════════════╗
+║       JOEL MANUEL | DEVELOPER PROFILE         ║
+║       SYSTEM: ONLINE | MODE: HACKER           ║
+╚══════════════════════════════════════════════╝
+-->
+
 <div align="center">
 
+<!-- BANNER ANIMADO -->
+
 <img
-src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=220&section=header&text=JOEL%20MANUEL&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35"
+src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:003b32,100:00ff88&height=220&section=header&text=JOEL%20MANUEL&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=CODE%20%7C%20LEARN%20%7C%20EVOLVE&descAlignY=58&descSize=18"
 width="100%"
-alt="Banner animado"
+alt="Banner de Joel Manuel"
 />
 
 <!-- TEXTO DINÂMICO -->
 
 <img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Estudante+de+Inform%C3%A1tica+e+Sistemas+Multim%C3%A9dia;Aprendendo+Java%2C+C+e+Python;Explorando+Linux+e+Cybersecurity;Transformando+ideias+em+projetos"
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=900&color=00FF88&center=true&vCenter=true&width=700&lines=%3E+Estudante+de+Inform%C3%A1tica+e+Sistemas+Multim%C3%A9dia;%3E+Aprendendo+Java%2C+C+e+Python;%3E+Explorando+Linux+e+Cybersecurity;%3E+Transformando+ideias+em+c%C3%B3digo;%3E+Building+my+future+one+line+at+a+time"
 alt="Texto animado"
 />
 
-</div>
+<br>
 
----
+<!-- BADGES -->
 
-## 👨‍💻 Sobre mim
-
-Olá! Sou estudante de Informática e Sistemas Multimédia.
-
-- 💻 Estou a aprender programação.
-- ☕ Estou a estudar Java e C.
-- 🐍 Tenho interesse em Python.
-- 🐧 Estou a explorar Linux e administração de sistemas.
-- 🚀 Quero desenvolver projetos úteis e inovadores.
-- 📚 Acredito que aprender e praticar são essenciais para evoluir.
-
----
-
-## 🛠️ Tecnologias
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,c,python,html,css,js,linux,git,github,vscode" alt="Tecnologias"/>
+<img src="https://img.shields.io/badge/STATUS-LEARNING-00ff88?style=for-the-badge&logo=github&logoColor=black" alt="Estado: a aprender"/>
+<img src="https://img.shields.io/badge/FOCUS-PROGRAMMING-00bfff?style=for-the-badge&logo=codeforces&logoColor=white" alt="Foco: programação"/>
+<img src="https://img.shields.io/badge/MODE-ALWAYS%20EVOLVING-7c3aed?style=for-the-badge&logo=rocket&logoColor=white" alt="Sempre a evoluir"/>
 
 </div>
 
 ---
 
-## 📊 Estatísticas do GitHub
+<!-- SOBRE MIM -->
 
-<div align="center">
+## `01` // 👨‍💻 Sobre mim
 
-<img
-src="https://github-readme-stats.vercel.app/api?username=J03LM4nu3L&show_icons=true&theme=tokyonight"
-height="170"
-alt="Estatísticas do GitHub"
-/>
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=J03LM4nu3L&layout=compact&theme=tokyonight"
-height="170"
-alt="Linguagens mais utilizadas"
-/>
-
-</div>
-
----
-
-## 🎯 Objetivos
-
-- 🌱 Melhorar as minhas competências de programação.
-- 💡 Criar projetos próprios.
-- 🔐 Aprender mais sobre segurança informática.
-- 🚀 Construir soluções tecnológicas.
-
----
-
-<div align="center">
-
-### ⚡ A aprender hoje, a construir o futuro amanhã.
-
-</div>
+```text
+> Identidade : Joel Manuel
+> Área       : Informática e Sistemas Multimédia
+> Missão     : Transformar ideias em soluções digitais
+> Mentalidade: Aprender. Praticar. Evoluir.

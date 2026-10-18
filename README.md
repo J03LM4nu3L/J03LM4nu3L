@@ -60,7 +60,7 @@ alt="Linguagens mais utilizadas"
 
 💡 Criar projetos próprios;
 
-🔐 Aprender mais sobre segurança informática;
+🔐 4prender mais sobre segurança informática;
 
 🚀 Construir soluções tecnológicas.
 
